@@ -9,3 +9,8 @@ function PlusNum($num1, $num2){
     $nums = $num1 +  $num2
     return $nums
 }
+
+function MinusNum($num1, $num2) {
+     $nums = $num1 - $num2
+     return $nums
+ }

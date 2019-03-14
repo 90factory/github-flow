@@ -14,3 +14,8 @@ function MinusNum($num1, $num2){
     $nums = $num1 -  $num2
     return $nums
 }
+
+function MultiplicationNum($num1, $num2){
+    $nums = $num1 * $num2
+    return $nums
+}

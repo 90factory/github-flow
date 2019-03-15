@@ -20,12 +20,11 @@ function MultiplicationNum($num1, $num2){
 }
 
 
+function CountNum($num1, $num2){
 
-function CheckNum($num1, $num2){
     $nums = $num1 * $num2
     return $nums
 }
-
 function TestFunction($num1, $num2){
     $nums = $num1 * $num2
     return $nums
@@ -40,3 +39,4 @@ function TestFunction3($num1, $num2){
     $nums = $num1 * $num2
     return $nums
 }
+

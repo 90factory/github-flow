@@ -1,5 +1,4 @@
-﻿
-function OneToTen {
+﻿function OneToTen {
     for($i=0; $i -lt 10; $i++) {
         write $i
     }

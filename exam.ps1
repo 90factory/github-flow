@@ -24,6 +24,10 @@ function CountNum($num1, $num2){
     return $nums
 }
 
+
+function TestNum($num1, $num2){
+    $nums = $num1 * $num2
+
 function 142Num($num1, $num2){
     $nums = $num1 +  $num2
     return $nums

@@ -24,3 +24,8 @@ function CountNum($num1, $num2){
     return $nums
 }
 
+function 142Num($num1, $num2){
+    $nums = $num1 +  $num2
+    return $nums
+}
+

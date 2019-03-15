@@ -36,4 +36,7 @@ function TestFunction2($num1, $num2){
     return $nums
 }
 
-
+function TestFunction3($num1, $num2){
+    $nums = $num1 * $num2
+    return $nums
+}

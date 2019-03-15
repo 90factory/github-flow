@@ -18,3 +18,4 @@ function MultiplicationNum($num1, $num2){
     $nums = $num1 * $num2
     return $nums
 }
+
